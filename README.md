@@ -24,6 +24,8 @@ Autoregressive image generation aims to predict the next token based on previous
     </em>
 </p>
 
+## News <a name="4"></a> 
+Our paper has been updated on arXiv with a better gFID of 1.28. The corresponding model weights will be released as soon as possible.
 
 ## ✏️ Usage <a name="4"></a> 
 
